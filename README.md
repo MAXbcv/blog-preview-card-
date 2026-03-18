@@ -28,11 +28,11 @@ Users should be able to:
 
 ### Screenshot
 
-![Overview of site](./Screenshot.png)
+![Overview of site](./screenshot.jpg)
 
 ### Links
 
-- Solution URL: [https://github.com/MAXbcv/3-column-preview-card-component]
+- Solution URL:[https://www.frontendmentor.io/solutions/blogexpress-HLLTLDiZc1]
 - Live Site URL: [https://maxbcv.github.io/blog-preview-card-/]
 
 ## My process
